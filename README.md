@@ -3,7 +3,7 @@
   <center> 
     <h1> Social Network New Version </h1>
     <h2> Light Mode </h2>
-    <img src="assets/images/light-text-social-network.jpg" height="400px">
+    <img src="assets/images/light-text-social-network.jpg">
     <h2> Dark Mode </h2>
     <img src="assets/images/dark-text-social-network.jpg">
     <br>
@@ -21,5 +21,6 @@
 
 [Flutter - Car and motorcycle purchase application](https://github.com/abolfazlzareikma/afz-car-motorcycle)[![watch](assets/images/youtube.png)](https://www.youtube.com/watch?v=wVF_WMaJgYs)
 
+<img src="assets/images/placeholder.png">
 Flutter - Read Local JSON File From assets folder[![watch](assets/images/youtube.png)](https://www.youtube.com/watch?v=DxKBqwwMSD4&t=1639s)
-<img src="assets/images/">
+
