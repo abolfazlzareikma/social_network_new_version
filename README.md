@@ -3,7 +3,7 @@
   <center> 
     <h1> Social Network New Version </h1>
     <h2> Light Mode </h2>
-    <img src="assets/images/light-text-social-network.jpg" height="100em">
+    <img src="assets/images/light-text-social-network.jpg" height="100px">
     <h2> Dark Mode </h2>
     <img src="assets/images/dark-text-social-network.jpg">
     <br>
