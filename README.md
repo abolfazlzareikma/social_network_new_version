@@ -1,7 +1,7 @@
 <html>
   <body>
   <center> 
-    <h1 style= color: red;> Social Network New Version </h1>
+    <h1 style="color: blue;"> Social Network New Version </h1>
     <h2> Light Mode </h2>
     <img src="https://github.com/abolfazlzareikma/social_network_new_version/blob/master/assets/images/light-text-social-network.jpg">
     <h2> Dark Mode </h2>
