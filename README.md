@@ -25,7 +25,7 @@ Flutter - Multi language application with GetX[![watch](assets/images/youtube.pn
 <br>
 [Flutter - Car and motorcycle purchase application](https://github.com/abolfazlzareikma/afz-car-motorcycle)[![watch](assets/images/youtube.png)](https://www.youtube.com/watch?v=wVF_WMaJgYs)
 <br>
-<img src="assets/images/cover-one.jpg" height= 50px>
+<img src="assets/images/cover-three.jpg" height= 50px>
 <br>
 Flutter - Read Local JSON File From assets folder[![watch](assets/images/youtube.png)](https://www.youtube.com/watch?v=DxKBqwwMSD4&t=1639s)
 <br>
