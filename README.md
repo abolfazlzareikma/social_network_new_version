@@ -24,6 +24,11 @@
 Flutter - Read Local JSON File From assets folder[![watch](assets/images/youtube.png)](https://www.youtube.com/watch?v=DxKBqwwMSD4&t=1639s)
 <br>
 <img src="assets/images/pink-cover2.png" height= 100px>
+<br>
+Flutter - Multi language application with GetX[![watch](assets/images/youtube.png)](https://youtu.be/olSz37yo0Ws)
+<br>
+
+
 
 
 
