@@ -5,7 +5,7 @@
     <h2> Light Mode </h2>
     <img src="assets/images/light-text-social-network-voice-gif.gif">
     <h2> Dark Mode </h2>
-    <img src="assets/images/dark-text-social-network.jpg">
+    <img src="assets/images/dark-text-social-network-voice-gif.gif">
     <br>
     <h1> Packages </h1>
     <h3> custom_navigation_bar: </h3>
